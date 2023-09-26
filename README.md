@@ -1,7 +1,7 @@
 
 ## Team Project Planner
 
-  
+A backend application to manage a base of users with functionality for team creation and a project board for task assignment. Uses Django as the primary framework, connected to a postgreSQL database.
 
 ### Database
 
